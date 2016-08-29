@@ -1,3 +1,8 @@
+### Status
+[![Build Status](https://travis-ci.org/fredyrincon/node-js-getting-started.png)](https://travis-ci.org/fredyrincon/node-js-getting-started)
+
+---
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
